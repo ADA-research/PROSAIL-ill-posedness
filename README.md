@@ -1,0 +1,2 @@
+This repository contains the code for our paper submission on PROSAIL inversion and ill-posedness.
+I will write a proper README after the paper is published; for now, I am putting the code here for the sake of the review process.
